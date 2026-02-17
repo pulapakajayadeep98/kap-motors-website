@@ -3,7 +3,7 @@
 const reviews = [
   {
     id: 1,
-    name: 'Rajesh Kumar',
+    name: 'Santhi Dutha',
     location: 'Hanuman Junction',
     rating: 5,
     text: 'Best car mechanic in Hanuman Junction! Got my car denting and painting done here. Anil Kumar sir is very skilled and honest. Fair price, quality work.',
@@ -11,7 +11,7 @@ const reviews = [
   },
   {
     id: 2,
-    name: 'Suresh Babu',
+    name: 'Rakesh pilla',
     location: 'Eluru',
     rating: 5,
     text: '10+ years experience shows. Engine repair was done perfectly. Car running smooth now. Highly recommend K A P MOTORS.',
@@ -19,15 +19,15 @@ const reviews = [
   },
   {
     id: 3,
-    name: 'Venkat Rao',
-    location: 'Hanuman Junction',
+    name: 'Pradeep',
+    location: 'Vijayawada',
     rating: 5,
     text: 'Car AC repair - gas refill and cooling fix. Done in same day. Good service and reasonable rate. Will come again.',
     date: '3 weeks ago',
   },
   {
     id: 4,
-    name: 'Murali Krishna',
+    name: 'Sudhakar',
     location: 'Nuzvid',
     rating: 5,
     text: 'Electrical work - headlight and power window repair. Expert work. My car is like new. Thank you Anil sir.',
@@ -35,7 +35,7 @@ const reviews = [
   },
   {
     id: 5,
-    name: 'Lakshmi Devi',
+    name: 'Anand',
     location: 'Hanuman Junction',
     rating: 5,
     text: 'Brake service and general check up. Quick service, no unnecessary charges. Trustworthy garage. Very satisfied.',
@@ -43,7 +43,7 @@ const reviews = [
   },
   {
     id: 6,
-    name: 'Ravi Teja',
+    name: 'Narasimha Rao',
     location: 'Eluru Road',
     rating: 5,
     text: 'Full body painting for my car. Color matching perfect. Quality work at good price. K A P MOTORS is the best.',
