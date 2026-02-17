@@ -32,7 +32,7 @@ export default function LocalSEO() {
           {/* Image */}
           <div className="relative aspect-[16/10] rounded-2xl overflow-hidden shadow-xl">
             <Image
-              src="/images/workshop.png"
+              src="/images/brakeservices.png"
               alt="K A P MOTORS car workshop in Hanuman Junction"
               fill
               className="object-cover"
