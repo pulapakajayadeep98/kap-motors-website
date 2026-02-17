@@ -30,7 +30,7 @@ export default function About() {
             </div>
             <div className="relative w-full h-[180px] md:h-[200px] overflow-hidden rounded-lg shadow-xl" style={{ clipPath: 'polygon(0 8%, 100% 0, 100% 100%, 0 92%)' }}>
               <Image
-                src="https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=600&q=80"
+                src="/images/machine.png"
                 alt="Mechanic with wrench at car lift"
                 fill
                 className="object-cover"
@@ -39,7 +39,7 @@ export default function About() {
             </div>
             <div className="relative w-full h-[180px] md:h-[200px] overflow-hidden rounded-lg shadow-xl" style={{ clipPath: 'polygon(0 0, 100% 8%, 100% 92%, 0 100%)' }}>
               <Image
-                src="https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&w=600&q=80"
+                src="/images/cleaning.png"
                 alt="Mechanic working under car"
                 fill
                 className="object-cover"

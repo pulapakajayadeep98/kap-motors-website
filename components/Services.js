@@ -77,8 +77,11 @@ const services = [
 
 export default function Services() {
   return (
-    <section className="bg-[#1E4E9E] py-32 text-white">
-      
+ <section
+  id="services"
+  className="bg-[#1E4E9E] py-32 text-white"
+>
+ 
       <div className="max-w-7xl mx-auto px-6 space-y-24">
         <div className="text-center mb-20">
           <h2 className="text-4xl md:text-5xl font-bold tracking-wide">

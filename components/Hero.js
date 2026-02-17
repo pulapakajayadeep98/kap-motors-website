@@ -6,7 +6,7 @@ import { useEffect, useState } from 'react'
 const images = [
   '/images/ac.png',   // replace with your images
   '/images/cleaning.png',
-  '/images/team3.jpg',
+  '/images/suspension.png',
 ]
 
 export default function Hero() {

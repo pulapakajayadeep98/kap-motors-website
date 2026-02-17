@@ -23,6 +23,13 @@ export const metadata = {
     'K A P MOTORS - Best Car Service Center in Hanuman Junction | Car Mechanic Shop',
   description:
     'K A P MOTORS is a trusted car service center in Hanuman Junction, Andhra Pradesh with 10+ years experience in denting, painting, engine repair, electrical works and complete car maintenance.',
+
+ icons: {
+  icon: '/images/logo.ico',
+  shortcut: '/logo.ico',
+  apple: '/logo.ico',
+},
+
   keywords: [
     'Car mechanic in Hanuman Junction',
     'Best car service center in Hanuman Junction',
@@ -39,6 +46,7 @@ export const metadata = {
     description:
       '10+ years trusted multi car care center in Hanuman Junction. Professional denting, painting, engine repair and complete car service.',
     url: 'https://kapmotors.com',
+    
     siteName: 'K A P MOTORS',
     locale: 'en_IN',
     type: 'website',
