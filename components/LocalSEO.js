@@ -44,7 +44,7 @@ export default function LocalSEO() {
 
             <p className="text-gray-600 text-lg leading-relaxed mb-10">
               If you are searching for the best car mechanic in Hanuman Junction,
-              K A P MOTORS is a trusted name with more than 10+ years of experience.
+              K A P MOTORS is a trusted name with more than 15+ years of experience.
               We provide complete car repair services including denting, painting,
               engine repair, electrical works and general car service.
               Customers choose us for quality work, honest pricing and quick service.
@@ -76,7 +76,7 @@ export default function LocalSEO() {
                     Trusted & Reliable
                   </h4>
                   <p className="text-sm text-gray-600">
-                    10+ years of satisfied customers.
+                    15+ years of satisfied customers.
                   </p>
                 </div>
               </div>

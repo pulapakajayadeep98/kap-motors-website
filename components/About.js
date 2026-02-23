@@ -3,7 +3,7 @@
 import Image from 'next/image';
 
 const features = [
-  '10+ Years Experience',
+  '15+ Years Experience',
   'All Car Models',
   'Affordable Price',
   'Quick Service',

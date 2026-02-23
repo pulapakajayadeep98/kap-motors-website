@@ -14,7 +14,7 @@ const reviews = [
     name: 'Rakesh pilla',
     location: 'Eluru',
     rating: 5,
-    text: '10+ years experience shows. Engine repair was done perfectly. Car running smooth now. Highly recommend K A P MOTORS.',
+    text: '15+ years experience shows. Engine repair was done perfectly. Car running smooth now. Highly recommend K A P MOTORS.',
     date: '1 month ago',
   },
   {

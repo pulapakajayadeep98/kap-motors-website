@@ -84,7 +84,7 @@ export default function Footer() {
             <div>
               <h4 className="font-heading font-bold text-lg text-kap-red mb-4">About Us</h4>
               <p className="text-white/80 text-sm leading-relaxed mb-4">
-                K A P MOTORS is a trusted car mechanic shop in Hanuman Junction with 10+ years of experience. We provide complete car repair services with quality work and affordable prices.
+                K A P MOTORS is a trusted car mechanic shop in Hanuman Junction with 15+ years of experience. We provide complete car repair services with quality work and affordable prices.
               </p>
               <div className="flex gap-3">
                 <a href="https://www.facebook.com/tumati.kap/" className="w-9 h-9 bg-white/10 hover:bg-kap-red rounded flex items-center justify-center transition-colors" aria-label="Facebook">

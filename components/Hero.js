@@ -51,7 +51,7 @@ export default function Hero() {
           </h1>
 
           <p className="text-white/90 text-base md:text-lg leading-relaxed mb-8">
-            10+ Years Experience in All Car Works. Complete car service center in Hanuman Junction. We handle all types of car repairs with quality service.
+            15+ Years Experience in All Car Works. Complete car service center in Hanuman Junction. We handle all types of car repairs with quality service.
           </p>
 
           <a
