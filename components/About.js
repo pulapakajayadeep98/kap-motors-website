@@ -57,7 +57,7 @@ export default function About() {
             </h2>
          <p className="text-kap-light-grey text-lg mb-6">
   K A P MOTORS is one of the trusted car mechanic shops in Hanuman Junction, Andhra Pradesh. 
-  Owner <span className="text-kap-red font-semibold">Anil Kumar</span> has more than 15+ years of experience in car repairs and services.
+  Owner <span className="text-kap-red font-semibold">Anil </span> has more than 15+ years of experience in car repairs and services.
 </p>
 
             <p className="text-kap-light-grey text-lg mb-8">
